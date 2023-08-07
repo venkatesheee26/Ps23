@@ -1,0 +1,8 @@
+D:\ps\ps23\ps23\bin\Debug\ps23.exe.config
+D:\ps\ps23\ps23\bin\Debug\ps23.exe
+D:\ps\ps23\ps23\bin\Debug\ps23.pdb
+D:\ps\ps23\ps23\obj\Debug\ps23.csproj.AssemblyReference.cache
+D:\ps\ps23\ps23\obj\Debug\ps23.csproj.SuggestedBindingRedirects.cache
+D:\ps\ps23\ps23\obj\Debug\ps23.csproj.CoreCompileInputs.cache
+D:\ps\ps23\ps23\obj\Debug\ps23.exe
+D:\ps\ps23\ps23\obj\Debug\ps23.pdb
